@@ -23,7 +23,7 @@ JALR:
 
 JR: 
 
-![image-20220527154448337](./assetsimage-20220527154448337.png)
+![image-20220527154448337](./assets/image-20220527154448337.png)
 
 ### 2. Branch 指令
 

@@ -19,11 +19,11 @@ gcc 会把 jr 编译成 jalr， 并把 rd 设置成 5'b0，以此来实现不修
 
 JALR: 
 
-![image-20220527154406622](D:\Minisys_CrossCompile\assets\image-20220527154406622.png)
+![image-20220527154406622](./assets/image-20220527154406622.png)
 
 JR: 
 
-![image-20220527154448337](D:\Minisys_CrossCompile\assets\image-20220527154448337.png)
+![image-20220527154448337](./assetsimage-20220527154448337.png)
 
 ### 2. Branch 指令
 
